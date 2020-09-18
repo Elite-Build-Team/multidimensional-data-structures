@@ -1,3 +1,5 @@
+## Dataset
+
 The data used are The 20 Newsgroups data set and were downloaded from http://qwone.com/~jason/20Newsgroups/ 
 
 There are two sub-folders containing test and train data. 
