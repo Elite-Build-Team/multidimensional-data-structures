@@ -69,3 +69,6 @@ Some indicative run times are shown below:
 | 590 / 0.79 MB  | 161.23(s)  | 0.58(s)  |
 |  584 / 0.90 MB | 178.57(s)  |  0.71(s) |
 |  591 / 1.80 MB |  373.57(s) |  1.48(s) |
+
+## How to run
+* `preprocessing.py` is used before running the `LSH.py` , so the `data.txt` file is created.
